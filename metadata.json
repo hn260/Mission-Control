@@ -1,0 +1,6 @@
+{
+  "name": "Agent Control Mobile",
+  "description": "Premium mission control center for remotely managing and commanding autonomous AI coding agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
